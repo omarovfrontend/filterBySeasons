@@ -1,5 +1,5 @@
 # filterBySeasons
 Фильтр по временам года на чистом JS
 
-###Demo:
+### Demo:
  - https://omarovfrontend.github.io/filterBySeasons/
